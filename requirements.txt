@@ -1,0 +1,8 @@
+PyQt5==5.15.7
+PyQt5-Qt5==5.15.2
+PyQt5.sip==12.11.0
+QScintilla==2.13.4
+python-json5==0.9.14
+dicttoxml==1.7.4
+loguru==0.6.0
+pytest==7.3.1
